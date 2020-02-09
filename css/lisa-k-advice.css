@@ -1,0 +1,33 @@
+body {
+	background-color: #1f202b;
+}
+
+.box {
+	margin-left: 25%;
+}
+
+header {
+	float: left;
+	width: 30%;
+}
+
+h1 {
+
+	font-size: 100px;
+	color: #fa0075;
+	text-align: right;
+	border-right: 4px solid green;
+	padding-right: 40px;
+
+}
+
+section {
+	width: 25%;
+	float: left;
+	margin-top: 67px;
+	padding-top: 15px;
+	font-family: 'Cairo', sans-serif;
+	font-size: 22px;
+	color: limegreen;
+	padding-left: 20px;
+}
